@@ -1,7 +1,6 @@
 # NLP-Project
 Sentiment analysis on FIFA Worldcup 2022
-# GWU project
-Project 1- Sentiment analysis
+
 # Twitter sentiment analysis on FIFA Worldcup 2022
 
 ### Basic Information
